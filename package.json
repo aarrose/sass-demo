@@ -1,0 +1,29 @@
+{
+  "name": "sass-demo",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aarrose/sass-demo.git"
+  },
+  "author": "Aaron Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarrose/sass-demo/issues"
+  },
+  "homepage": "https://github.com/aarrose/sass-demo",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-bower": "0.0.10",
+    "gulp-compass": "^2.0.3",
+    "gulp-notify": "^2.1.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-watch": "^3.0.0"
+  }
+}

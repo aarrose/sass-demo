@@ -1,0 +1,12 @@
+// Partials
+@import "partials/base"; // Contains all global project variables and mixins
+
+body {
+	font-family: $base-font-family;
+	font-weight: $base-font-weight;
+}
+
+.container {
+	max-width: 960px;
+	width: 100%;
+}

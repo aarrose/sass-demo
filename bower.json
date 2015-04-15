@@ -1,0 +1,21 @@
+{
+  "name": "sass-demo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aarrose/sass-demo",
+  "description": "This is a simple SASS demo to learn how to use the platform alongside node, bower, ruby and gulp.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
